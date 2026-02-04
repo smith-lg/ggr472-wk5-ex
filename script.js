@@ -48,7 +48,7 @@ map.on('load', () => {
     // Add a data source from a Mapbox tileset
     map.addSource('toronto-ct-data', { // Create your own source ID
         type: 'vector',
-        url: 'mapbox://lgsmith.7xkdwp3y' // Update to your mapbox tileset ID
+        url: 'mapbox://lgsmith.3oqn8y6b' // Update to your mapbox tileset ID
     });
 
 // 2. VISUALIZE DATA LAYERS
