@@ -81,7 +81,7 @@ map.on('load', () => {
             'fill-opacity': 0.4,
             'fill-outline-color': 'black'
         },
-        'source-layer': 'torontoct-6j3jwk' // Tileset NAME (diff to ID), get this from mapbox tileset page
+        'source-layer': 'torontoct-avthxr' // Tileset NAME (diff to ID), get this from mapbox tileset page
     },
         'buildings-pnt'
         // Drawing order - places layer below points
